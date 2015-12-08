@@ -6,7 +6,7 @@ body {
 }
 .map {
   position: relative;
-  top: 60px;
+  top: 41px;
 }
 #map-canvas {
   width: 100%;
